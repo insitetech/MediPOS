@@ -1,0 +1,2 @@
+# MediPOS
+Medical PointOfSale Application
